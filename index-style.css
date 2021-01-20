@@ -1,0 +1,15 @@
+h1 {
+    font-family: verdana;
+    color: blue;
+}
+.projects {
+    font-family: calibri;
+    font-weight: bold;
+}
+.projects > h2 {
+    color: red;
+    font-size: 175%;
+}
+a {
+    text-decoration: none;
+}
